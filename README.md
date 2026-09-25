@@ -5,5 +5,4 @@ Programa - hola mundo en java
 bloque de texto creado con la similitud de discord
 - intento
 + interno
-\e[0;32m31mEste texto es rojo\e[0;33m
 ```
